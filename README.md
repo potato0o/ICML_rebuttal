@@ -1,5 +1,5 @@
 # ICML_rebuttal
 
-![Figure 1](figure/figure%201.png)
-![Figure 2](figure/figure%202.png)
-![Figure 3](figure/figure%203.png)
+![Figure A](figure/figure_a.png)
+![Figure B](figure/figure_b.png)
+![Figure C](figure/figure_c.png)
